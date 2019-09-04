@@ -3,4 +3,6 @@
     <string name="custom_call">Llamar</string>
     <string name="custom_location">Ubicar</string>
     <string name="custom_web">Navegar</string>
+    <string name="chooser_title">Elegir Aplicacion</string>
+    <string name="capturar_imagen">Capturar Foto</string>
 </resources>
